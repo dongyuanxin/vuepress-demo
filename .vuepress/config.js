@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/web-interview/",
+  base: "/vuepress-demo/",
   title: "GodBMW",
   description: "Just a demo to learn vuepress",
   markdown: {
@@ -8,7 +8,7 @@ module.exports = {
     toc: { includeLevel: [1, 2, 3] }
   },
   themeConfig: {
-    repo: "vuejs/vuepress",
+    repo: "dongyuanxin/vuepress-demo",
     editLinks: true,
     editLinkText: "在 GitHub 上编辑此页",
     sidebar: [
